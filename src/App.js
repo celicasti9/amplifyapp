@@ -17,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Sigue la energia
+          Click y sigue la energia
         </a>
       </header>
     </div>
