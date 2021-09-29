@@ -11,7 +11,14 @@ function App() {
 	  <body>
           <p> Esta pagina ha sido creada con la intencion de practicar el desarrollo front-end de varias aplicaciones </p>
           </body>
-
+	  <a
+          className="App-link"
+          href="https://facebook.com/castillolacone"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Sigue la energia
+        </a>
       </header>
     </div>
   );
