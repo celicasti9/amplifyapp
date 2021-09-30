@@ -10,6 +10,7 @@ function App() {
         <h1>Bienvenido a un mundo de codigo virtual infinito!</h1>
 	  <body>
           <p> Esta pagina ha sido creada con la intencion de practicar el desarrollo y adaptacion de aplicaciones web </p>
+	  <p> El futuro luce demasiado brillante y las posibilidades son infinitas </p>
           </body>
 	  <a
           className="App-link"
