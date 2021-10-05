@@ -7,18 +7,18 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>Bienvenido a un mundo de codigo virtual infinito!</h1>
+        <h1>Bienvenida a una experiencia personalizada</h1>
 	  <body>
-          <p> Esta pagina ha sido creada con la intencion de practicar el desarrollo y adaptacion de aplicaciones web </p>
-	  <p> El futuro luce demasiado brillante y las posibilidades son infinitas </p>
+          <p> Esta pagina ha sido creada con la intencion de desarrollar nuevas maneras de invitarle a compartir. La buena energia siempre llama. </p>
+	  <p> Estamos seguros que de aceptar la invitacion, la velada seria de su agrado. </p>
           </body>
 	  <a
           className="App-link"
-          href="https://facebook.com/castillolacone"
+          href="https://www.youtube.com/watch?v=VPWP9xzIXKg&ab_channel=LaconeTV"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Click y sigue la energia
+          Click y siente la energia
         </a>
       </header>
     </div>
